@@ -13,6 +13,8 @@ Singh Nanda, J., Kumar, R., & Raghava, G. P. S. (2016).
 *Scientific Reports*, 6, 19340. 
 [https://doi.org/10.1038/srep19340](https://doi.org/10.1038/srep19340)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20062797
+
 ## About the Database
 
 Epigenetics is the study of heritable changes in cellular phenotype that do not involve alterations to the underlying DNA sequence.
